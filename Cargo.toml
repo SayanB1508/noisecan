@@ -1,0 +1,9 @@
+[package]
+name = "noise_canceller"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal    = "0.15"
+rustfft = "6"
+anyhow  = "1"
